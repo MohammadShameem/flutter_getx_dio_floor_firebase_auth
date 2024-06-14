@@ -1,6 +1,6 @@
 {
   "project_info": {
-    "project_number": "938389649423",
+    "project_number": "4646+464",
     "firebase_url": "https://lateral-command-257315.firebaseio.com",
     "project_id": "lateral-command-257315",
     "storage_bucket": "lateral-command-257315.appspot.com"
@@ -8,47 +8,30 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:938389649423:android:020cd1823b4a973a678b7a",
+        "mobilesdk_app_id": "1:dsf:android:020cd1823b4a973a678b7a",
         "android_client_info": {
           "package_name": "com.bjit.flutter.nearme"
         }
       },
       "oauth_client": [
         {
-          "client_id": "938389649423-99g9pq046en1bpk7ad8ac5odgij3is9o.apps.googleusercontent.com",
+          "client_id": "54644",
           "client_type": 1,
           "android_info": {
             "package_name": "com.bjit.flutter.nearme",
-            "certificate_hash": "1faf204c9b7fc8104c5e43b170cf9e7058197ac6"
+            "certificate_hash": "5456464"
           }
         },
         {
-          "client_id": "938389649423-qhg25avo1iqbv24ps5a3bardvu86hbbc.apps.googleusercontent.com",
+          "client_id": "544",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDjlqZLxH-Lrthpgws88FQrBVbo0aSNlnI"
+          "current_key": "sfds-dfsf"
         }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "938389649423-qhg25avo1iqbv24ps5a3bardvu86hbbc.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "938389649423-h8136sovd8f00s8aso190jg98ln5h981.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.bjit.flutter.nearme"
-              }
-            }
-          ]
-        }
-      }
+      ]
     }
   ],
   "configuration_version": "1"

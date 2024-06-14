@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Flutter NearMe</string>
-    <string name="facebook_app_id">885088309478015</string>
-    <string name="fb_login_protocol_scheme">fb1234</string>
-    <string name="facebook_client_token">018cd9c7059d8479f23a64718cde1421</string>
+    <string name="facebook_app_id">sdfs</string>
+    <string name="fb_login_protocol_scheme">dsf</string>
+    <string name="facebook_client_token">fdsf</string>
 </resources>
